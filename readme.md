@@ -1,6 +1,6 @@
-# Bharat_Intern_Internship_Tasks
+# Oasis_Infobyte_Intern_Internship_Tasks
 
-This repository contains the source code for the tasks assigned to me during my internship at Bharat_Intern. The tasks include the following projects:
+This repository contains the source code for the tasks assigned to me during my internship at Oasis_Infobyte_Intern. The tasks include the following projects:
 
 1. [Netflix_Home_Landing_Page_Task_01-Source Code](https://github.com/Lavnish1997/Oasis-Infobyte-Tasks/tree/main/Netflix_Home_Landing_Page_Task_01)
 2. [Portfolio_Task_02-Source Code](https://github.com/Lavnish1997/Oasis-Infobyte-Tasks/tree/main/Portfolio_Task_02)
@@ -8,9 +8,9 @@ This repository contains the source code for the tasks assigned to me during my 
 
 All the projects were developed using HTML, CSS, and JavaScript.
 
-## Personal Portfolio Website
+##  Netflix Home Page Clone
 
-The Personal Portfolio Website project focuses on creating a website that showcases personal information, skills, projects, and achievements. It utilizes JavaScript for interactivity, allowing users to navigate through different sections, view project details, and contact the website owner. HTML and CSS are used for structuring and styling the website.
+The Netflix Home Page Clone project aims to replicate the user interface of the popular streaming platform Netflix. It involves creating a responsive web page that mimics the layout, design, and functionality of the Netflix homepage. The project utilizes HTML, CSS, and JavaScript to build the user interface and provide interactive features such as browsing different movie categories, playing trailers, and navigating through movie suggestions.
 
 ### Features
 
@@ -26,9 +26,9 @@ The Personal Portfolio Website project focuses on creating a website that showca
 To view or modify the source code for the Netflix Home Page Clone project, navigate to the `Netflix-Home-Landing-Page` folder.
 
 
-## Netflix Home Page Clone
+## Portfolio
 
-The Netflix Home Page Clone project aims to replicate the user interface of the popular streaming platform Netflix. It involves creating a responsive web page that mimics the layout, design, and functionality of the Netflix homepage. The project utilizes HTML, CSS, and JavaScript to build the user interface and provide interactive features such as browsing different movie categories, playing trailers, and navigating through movie suggestions.
+The Personal Portfolio Website project focuses on creating a website that showcases personal information, skills, projects, and achievements. It utilizes JavaScript for interactivity, allowing users to navigate through different sections, view project details, and contact the website owner. HTML and CSS are used for structuring and styling the website.
 
 ### Features
 
